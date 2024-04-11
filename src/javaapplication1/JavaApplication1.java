@@ -17,6 +17,7 @@ public class JavaApplication1 {
         // TODO code application logic here
 
                 System.out.println("adios");
+                System.out.println("mensaje con descripción");  
     }
     
 }
